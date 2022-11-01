@@ -25,23 +25,31 @@
 <br>
 <br>
 
+
 | <a href="https://github-readme-stats.vercel.app/api?username=kawsersimanto&show_icons=true&locale=en"><img align="center" src="https://github-readme-stats.vercel.app/api?username=kawsersimanto&show_icons=true&locale=en" alt="kawser's github stats" /></a> | <a href="https://github-readme-stats.vercel.app/api/top-langs?username=kawsersimanto&show_icons=true&locale=en&layout=compact"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kawsersimanto&show_icons=true&locale=en&layout=compact" alt="kawser's top languages"/></a> |
 | ------------- | ------------- |
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kawsersimanto&" alt="kawsersimanto" /></p>
 
-<a href="https://twitter.com/anuraghazru">
-  <img align="right" alt="Anurag Hazra | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
-</a>
-<a href="https://codesandbox.io/u/anuraghazra">
-  <img align="right" alt="Anurag Hazra | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
-</a>
-
 <br>
 <h3 align="left">Connect with me</h3>
 <p align="left">
-<a href="https://twitter.com/kawsersimanto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kawsersimanto" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/kawsersimanto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kawsersimanto" height="30" width="40" /></a>
-<a href="https://www.facebook.com/kawsersimantoo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kawsersimanto0" height="30" width="40" /></a>
-<a href="https://instagram.com/kawsersimanto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kawsersimanto" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/kawsersimanto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="kawsersimanto" height="30" width="40" /></a>
-</p>
+  
+<a href="https://www.facebook.com/kawsersimantoo" target="blank">
+<code><img height="35" alt="adobexd" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"></code>   
+</a>
+  
+<a href="https://instagram.com/kawsersimanto" target="blank">
+<code><img height="35" alt="adobexd" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"></code>   
+</a>
+
+<a href="https://www.linkedin.com/in/kawsersimanto" target="blank">
+<code><img height="35" alt="adobexd" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"></code>   
+</a>
+
+<a href="https://twitter.com/kawsersimanto" target="blank">
+<code><img height="35" alt="adobexd" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"></code>   
+</a>
+  
+<a href="https://www.youtube.com/c/kawsersimanto" target="blank">
+<code><img height="35" alt="adobexd" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg"></code>   
+</a>

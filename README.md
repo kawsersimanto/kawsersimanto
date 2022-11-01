@@ -1,4 +1,4 @@
-<img align="center" src="https://github.com/kawsersimanto/kawsersimanto/blob/main/img/commit.png">
+<img align="center" src="https://github.com/kawsersimanto/kawsersimanto/blob/main/img/banner.png">
 
 <h3 align="start">A Full Stack Web Developer</h3>
 

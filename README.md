@@ -1,10 +1,11 @@
 <img align="center" src="https://github.com/kawsersimanto/kawsersimanto/blob/main/img/work-flow.png">
 <h1 align="start">A Full Stack Web Developer</h1>
 
-<p>Extremely Passionate and dedicated to my work. Trying to improve and develop the web in a creative way. Over the years, I've made an effort to continuously learn new skills and modern technologies. Hoping to work with you, further my knowledge and also build a good relationship.</p>
+<p>Extremely Passionate and dedicated to my work. Trying to improve and develop the web in a creative way. <br>Over the years, I've made an effort to continuously learn new skills and modern technologies. Hoping to<br> work with you, further my knowledge and also build a good relationship.</p>
 
 <p align="left">
-<h3 align="start">Frontend</h3>
+<h3 align="left">Frontend</h3>
+<img align="right" alt="Coding" width="500" src="https://github.com/kawsersimanto/kawsersimanto/blob/main/img/frontend.png">
 <code><img height="35" alt="html" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"></code>
 <code><img height="35" alt="css" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"></code>
 <code><img height="35" alt="sass" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"></code>
@@ -12,7 +13,7 @@
 <code><img height="35" alt="javascript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"></code>
 <code><img height="35" alt="git" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"></code>
 
-<h3 align="start">Backend</h3>
+<h3>Backend</h3>
 <code><img height="35" alt="php" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"></code>  
 <code><img height="35" alt="mysql" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"></code>
 
@@ -21,8 +22,6 @@
 <code><img height="35" alt="photoshop" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg"></code>
 <code><img height="35" alt="adobexd" src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg"></code>  
 </p>
-
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...">
 
 <br>
 <br>

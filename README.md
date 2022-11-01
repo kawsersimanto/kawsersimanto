@@ -23,6 +23,7 @@
 <code><img height="35" alt="adobexd" src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg"></code>  
 </p>
 <br>
+<br>
 
 | <a href="https://github-readme-stats.vercel.app/api?username=kawsersimanto&show_icons=true&locale=en"><img align="center" src="https://github-readme-stats.vercel.app/api?username=kawsersimanto&show_icons=true&locale=en" alt="kawser's github stats" /></a> | <a href="https://github-readme-stats.vercel.app/api/top-langs?username=kawsersimanto&show_icons=true&locale=en&layout=compact"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kawsersimanto&show_icons=true&locale=en&layout=compact" alt="kawser's top languages"/></a> |
 | ------------- | ------------- |
@@ -35,11 +36,8 @@
   <img align="right" alt="Anurag Hazra | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
 </a>
 
-<h3 align="left">Youtube Videos</h3>
-<a href="https://www.youtube.com/watch?v=KhGWbt1dAKQ&t=3s" target="_blank"><img src="http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg" 
-alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
-
-<h3 align="left">Connect with me:</h3>
+<br>
+<h3 align="left">Connect with me</h3>
 <p align="left">
 <a href="https://twitter.com/kawsersimanto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kawsersimanto" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/kawsersimanto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kawsersimanto" height="30" width="40" /></a>

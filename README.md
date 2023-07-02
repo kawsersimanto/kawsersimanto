@@ -1,7 +1,7 @@
 <img align="center" src="https://github.com/kawsersimanto/kawsersimanto/blob/main/img/work-flow.png">
-<h1 align="start">A Full Stack Web Developer</h1>
+<h1 align="start">Full Stack Web Developer</h1>
 
-<p>Extremely Passionate and dedicated to my work. Trying to improve and develop the web in a creative way. <br>Over the years, I've made an effort to continuously learn new skills and modern technologies. Hoping to<br> work with you, further my knowledge and also build a good relationship.</p>
+<p>Hi there, This is Kawser Simanto your website builder and WordPress expert. I enjoy helping people in creating their online presence, and I particularly enjoy coding. Because of this, I strive to do my best in the field of web development and WordPress customization. I believe that good websites lead to great businesses.</p>
 
 <p align="left">
 <br><br>

@@ -1,4 +1,4 @@
-<img align="center" src="https://github.com/kawsersimanto/kawsersimanto/blob/main/img/work-flow.png">
+<img align="center" src="https://github.com/kawsersimanto/kawsersimanto/blob/main/img/kawsersimanto-cover.png">
 <h1 align="start">Full Stack Web Developer</h1>
 
 <p>Hi there, This is Kawser Simanto your website builder and WordPress expert. I enjoy helping people in creating their online presence, and I particularly enjoy coding. Because of this, I strive to do my best in the field of web development and WordPress customization. I believe that good websites lead to great businesses.</p>

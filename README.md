@@ -6,7 +6,7 @@
 <p align="left">
 <br><br>
 <h2 align="left">Frontend</h2>
-<img align="right" alt="Coding" width="500" src="https://github.com/kawsersimanto/kawsersimanto/blob/main/img/frontend.png">
+
 <code><img height="35" alt="html" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"></code>
 <code><img height="35" alt="css" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"></code>
 <code><img height="35" alt="sass" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"></code>
@@ -23,7 +23,6 @@
 <h2 align="start">UI/UX</h2>
 <code><img height="35" alt="figma" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"></code>  
 <code><img height="35" alt="photoshop" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg"></code>
-<code><img height="35" alt="adobexd" src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg"></code>  
 </p>
 
 <br>

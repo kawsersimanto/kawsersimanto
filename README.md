@@ -17,7 +17,9 @@
 ## About
 
 <p>
-   I specialize in building modern, responsive, and highly interactive web interfaces using a clean, modular, and performance-focused approach. My work centers around React, Next.js, and advanced animation libraries that bring UI/UX to life.
+   I specialize in building scalable, responsive, and high-performance web interfaces with a strong focus on React and Next.js. I architect my projects using clean, modular code, predictable state management (Redux/Zustand), and modern React design patterns that keep apps maintainable and extensible long-term.
+
+My approach blends well-structured components, reusable UI systems, and optimized rendering strategies—paired with smooth interactions powered by JavaScript and animation libraries. Whether it’s a complex dashboard, dynamic data-driven UI, or a fast Next.js application, I enjoy crafting experiences that feel both snappy and thoughtfully engineered.
 </p>
 
 ## Skills

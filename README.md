@@ -34,15 +34,7 @@
 
 <br/>
 
-<p align="center">
-   <a href="https://github.com/kawsersimanto">
-      <img 
-         src="https://github-readme-streak-stats.herokuapp.com/?user=kawsersimanto&theme=radical&border=7F3FBF&background=0D1117" 
-         alt="Kawsersimanto GitHub streak" 
-         width="70%"
-      />
-   </a>
-</p>
+[![GitHub Streak](https://streak-stats.demolab.com?user=kawsersimanto&theme=radical&hide_border=true)](https://git.io/streak-stats)
 
 <p align="center">
    <a href="https://github.com/kawsersimanto">
